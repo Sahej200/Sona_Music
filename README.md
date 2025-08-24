@@ -1,7 +1,7 @@
 🎵 Sona Music — README.md
 # 🎶 Sona Music
 
-A **Spotify-like full-stack music streaming application** built with:
+A **A full-stack music streaming application** built with:
 
 - ⚡ **React + Vite** (Frontend + Admin Dashboard)
 - 🛠️ **Express + PostgreSQL + Cloudinary** (Backend)
@@ -16,7 +16,7 @@ A **Spotify-like full-stack music streaming application** built with:
 - 🛠️ Admin dashboard to add/remove songs and albums  
 - ☁️ Media storage on Cloudinary  
 - ⚡ Blazing fast frontend with Vite  
-- 🗄️ PostgreSQL database (originally MongoDB, now migrated)  
+- 🗄️ MongoDB database 
 
 ---
 
@@ -28,8 +28,8 @@ A **Spotify-like full-stack music streaming application** built with:
 ### 🛠️ Admin Panel
 ![Admin Screenshot](./ss2.png)
 
-### ⚡ Backend API
-![Backend Screenshot](./ss4.png)
+### ⚡ MongoDB Panel
+![MongoDB Screenshot](./ss4.png)
 
 ---
 
