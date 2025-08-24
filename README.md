@@ -1,7 +1,7 @@
 🎵 Sona Music — README.md
 # 🎶 Sona Music
 
-A **A full-stack music streaming application** built with:
+A ** full-stack music streaming application** built with:
 
 - ⚡ **React + Vite** (Frontend + Admin Dashboard)
 - 🛠️ **Express + PostgreSQL + Cloudinary** (Backend)
