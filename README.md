@@ -76,17 +76,13 @@ Runs at: http://localhost:5174
 
 📂 Project Structure
 sona-music/
- ├── sona-backend     # Express + PostgreSQL + Cloudinary API
- ├── sona-frontend    # User-facing frontend (Vite + React)
- ├── sona-admin       # Admin dashboard (Vite + React)
+ ├── backend     # Express + MOngoDB + Cloudinary API
+ ├── frontend    # User-facing frontend (Vite + React)
+ ├── admin       # Admin dashboard (Vite + React)
  └── assets/screenshots
 
 🚀 Deployment
 
-Backend → Render
- / Railway
-
-Frontend + Admin → Vercel
 
 Set environment variables in the platform dashboard (never commit .env to GitHub).
 
